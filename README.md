@@ -1,14 +1,15 @@
 # PENTACHAIN
-Template for TigerGraph Graph for All Challenge Submissions
-Use this template for your project submisison and edit the README following the text below. Add your project code and data (if public) to the repository.
-
 Project Title PENTACHAIN
-Contributers and Contact Information: 
-Jonathan Dubon. j00218915@gmail.com
-Josue Cruz danieldubonxd@gmail.com
-Marvin Henriquez josehenriquez-niu@gmail.com
 
-Problem Statement addressed :[ Public transport is  a challenge for every country in addition Traffic jams cost the US a staggering $87 billion in lost productivity per year. 
+This document presents a summary of our whitepaper. The complete document is available at:**
+https://docs.google.com/document/d/13Gn3I82HFuBrnXzYmuUG2czjQ3hpOHZ7tzblXYVPSJU/edit?usp=sharing
+
+Contributers 
+Jonathan Dubon. 
+Josue Cruz 
+Marvin Henriquez
+
+Problem Statement addressed :[Public transport is  a challenge for every country in addition Traffic jams cost the US a staggering $87 billion in lost productivity per year. 
 
 Citizens in every city now use data from smartphones navigation to work around traffic. Since current services on the market do not provide real time car congestion, its difficult to predict traffic flow, demand user flow, demography effect by region, weather conditions, planned or unplanned events, street size and roads, traffic lights optimization.
 
@@ -27,13 +28,28 @@ Innovative use case of graph This framework has many advantages for building mul
  in addition it provide data privacy protections  and at the same time the algorithms understand, identify, and extract contextual elements such as, syntax, time, location, appropriate regulation, user profile, process, task and goal.
  
 Ambitious and complex graph
+With the financed resources being able to develop and deploy the higher technical, user friendly and advanced integrated platform that combines AI and TigerGraph tools to create a circular economy where every user is interacting, making transactions, updating data, processing payment. etc.
+
+
 
 Applicable graph solution
-Other additions:
+Nowadays, navigation systems or apps such as Google Maps have a great impact on routing decisions, and could therefore help to avoid congestion formation. However, such systems rely on projections into the future to assess the trafﬁc state at the time of driving, provide public transportation personal recommendations, estimate savings or incentive the low vehicle usage with crypto payments.
+It is important to recognize that urban areas vary significantly across socioeconomic and geographic characteristics that may influence the effect of public transit supply. The benefits of public transit are likely to be significantly higher in regions with high population density, extensive public transit networks/low moto
 
-Data: Give context for the dataset used and give full access to judges if publicly available or metadata otherwise.
+
+
+
+Data: 
+DATA ENTRIES PUBLIC DATA ANONYMIZED USER DATA  GOVERNMENT DATA
+TOOLS  GOOGLE MAP, OPEN STREET MAP. COPERNICUS
+DESCRIPTION: APP USAGE BY USER INPUT Shared data across systems and organizations available on platforms via API
+
+PUBLIC  STATISTIC ON PLATFORM BY CITY TRACKING AND REPORTS
+Gathering information on cities or government institutions served.
+
+
 Technology Stack: Describe technologies and programming languages used.
-Visuals: Feel free to include other images or videos to better demonstrate your work.
+Visuals: https://docs.google.com/document/d/13Gn3I82HFuBrnXzYmuUG2czjQ3hpOHZ7tzblXYVPSJU/edit
 Link websites or applications if needed to demonstrate your work.
 Dependencies
 State any dependencies and their versions needed to be installed to test this project. This may include programming languages, frameworks, libraries, and etc.
